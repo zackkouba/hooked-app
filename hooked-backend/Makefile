@@ -1,6 +1,6 @@
 # Variables
 VENV_DIR := venv
-PYTHON := python3
+PYTHON := python3.12
 PIP := $(VENV_DIR)/bin/pip
 FLASK_APP := run.py
 
